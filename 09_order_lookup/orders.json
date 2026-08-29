@@ -1,0 +1,14 @@
+[
+  {
+    "order_no": "1001",
+    "customer": "Dilan",
+    "product": "Kulaklik",
+    "status": "Kargoda"
+  },
+  {
+    "order_no": "1002",
+    "customer": "Ahmet",
+    "product": "Klavye",
+    "status": "Hazirlaniyor"
+  }
+]
